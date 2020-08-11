@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: My Adventure with WSL2
+author: Muhammed Hussaini
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is one stop place for my journey in the world of technologgy. You'll get full update about what am tinkering with 
+  at the moment. Currently am obsess with Docker and WSL2 and all things related to linux OS. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: _nazeer24 # DO NOT include the @ character, or else the build will fail!
+github_username:  muhammednazeer # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
