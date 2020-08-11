@@ -1,3 +1,8 @@
+---
+title: "My Experience with WSL2 Setup on Windows 10 Home"
+date: 2020-08-11
+---
+
 On paper, WSL fulfills a dire need in the development community. It allows you to have the *NIX environment on any device that can run windows. Whereas previously you had to either buy Apple hardware or go through the intimidating Linux installation.
 
 In this article I will give you some ideas about the setup process and runtime of WSL2 vs Native Ubuntu to let you decide if it’s worth the switch.
