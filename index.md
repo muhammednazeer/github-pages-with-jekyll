@@ -1,4 +1,3 @@
-# Welcome to my tech blog
 
 I'm glad you are here. I plan to talk about my experience with the new WSL2 on Window 10 Home Edition.
 Microsoft has done a mervellous job in enabling a full blown linux kernel on windows, without the need to
